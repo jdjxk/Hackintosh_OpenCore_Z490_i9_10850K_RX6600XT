@@ -26,7 +26,7 @@ Settings\Advanced\Power Management Setup\ErP Ready **[Disabled] -> [Enabled]**
 
 # Known Issues
 
-**NVMeFix.kext** might cause booting problems randomly on Intel 900P.
+[NVMeFix.kext](https://github.com/acidanthera/NVMeFix) might cause booting problems randomly on Intel 900P.
 
 > *Everything seems to be working properly without it.*
 
@@ -37,3 +37,4 @@ Settings\Advanced\Power Management Setup\ErP Ready **[Disabled] -> [Enabled]**
 > *Use [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) to solve Bluetooth problems in Monterey.* 
 
 Please use [USBToolBox](https://github.com/USBToolBox/tool) in Windows environment to custom your own USBMap.kext if it's not suitable for you.
+
