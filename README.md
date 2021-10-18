@@ -1,3 +1,5 @@
+## [中文说明](https://github.com/jdjxk/Hackintosh_OpenCore_Intel_i5_10600KF_MSI_Z490_S01_GIGABYTE_RX5500XT_4G/blob/main/README_CN.md)
+
 # Specification
 
 | Hardware      | Model                                          |
@@ -5,8 +7,8 @@
 | Motherboard   | MSI Z490-S01                                   |
 | CPU           | Intel Core i5-10600KF                          |
 | Memory        | Crucial Ballistix 16GB Kit (2 x 8GB) DDR4-3600 |
-| SSD           | Intel Optane SSD 900P 280GB                    |
-| Graphics Card | Gigabyte Radeon RX 5500 XT OC 4G               |
+| SSD           | Intel Optane 900P 280GB                        |
+| Graphics Card | Gigabyte RX 5500 XT OC 4G                      |
 | Network       | Intel I219-V                                   |
 | Audio         | Realtek ALC892                                 |
 
@@ -36,5 +38,5 @@ Settings\Advanced\Power Management Setup\ErP Ready **[Disabled] -> [Enabled]**
 
 > *Use [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) to solve Bluetooth problems in Monterey.* 
 
-Please use [USBToolBox](https://github.com/USBToolBox/tool) in Windows environment to custom your own USBMap.kext if it's not suitable for you.
+Please use [USBToolBox](https://github.com/USBToolBox/tool) in Windows environment to custom your own USBMap.kext if not suitable.
 
