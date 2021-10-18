@@ -1,0 +1,2 @@
+# Hackintosh_OpenCore_Intel_i5_10600KF_MSI_Z490_S01_GIGABYTE_RX5500XT_4G
+ 
