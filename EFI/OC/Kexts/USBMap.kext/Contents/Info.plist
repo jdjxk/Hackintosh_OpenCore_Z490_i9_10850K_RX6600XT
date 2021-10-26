@@ -42,7 +42,7 @@
 			<dict>
 				<key>port-count</key>
 				<data>
-				FwAAAA==
+				GQAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -118,15 +118,6 @@
 						CwAAAA==
 						</data>
 					</dict>
-					<key>HS09</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>255</integer>
-						<key>port</key>
-						<data>
-						DAAAAA==
-						</data>
-					</dict>
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -181,10 +172,19 @@
 						FgAAAA==
 						</data>
 					</dict>
+					<key>SS07</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						GQAAAA==
+						</data>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
