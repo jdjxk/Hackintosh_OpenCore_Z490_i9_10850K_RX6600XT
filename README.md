@@ -1,15 +1,15 @@
 # Specification
 
-| Hardware      | Model                                          |
-| ------------- | ---------------------------------------------- |
-| Motherboard   | MSI Z490-S01                                   |
-| CPU           | Intel Core i9-10850K                           |
-| Memory        | Crucial Ballistix 16GB Kit (2 x 8GB) DDR4-3600 |
-| SSD           | Intel Optane 900P 280GB                        |
-| Graphics Card | Gigabyte RX 5500 XT OC 4G                      |
-| Wireless      | Fenvi T919                                     |
-| Network       | Intel I219-V                                   |
-| Audio         | Realtek ALC892                                 |
+| Hardware      | Model                             |
+| ------------- | --------------------------------- |
+| Motherboard   | MSI Z490-S01                      |
+| CPU           | Intel Core i9-10850K              |
+| Memory        | Crucial Ballistix DDR4-3600 8GB*4 |
+| SSD           | Intel Optane 900P 280GB           |
+| Graphics Card | Gigabyte RX 5500 XT OC 4G         |
+| Wireless      | Fenvi T919                        |
+| Network       | Intel I219-V                      |
+| Audio         | Realtek ALC892                    |
 
 | Software | Version         |
 | -------- | --------------- |
