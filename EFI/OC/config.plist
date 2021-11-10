@@ -20,7 +20,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
-                    <string>SSDT-AWAC.aml</string>
+                    <string>SSDT-EC-USBX-DESKTOP.aml</string>
                 </dict>
                 <dict>
                     <key>Comment</key>
@@ -28,7 +28,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
-                    <string>SSDT-EC-USBX-DESKTOP.aml</string>
+                    <string>SSDT-AWAC.aml</string>
                 </dict>
             </array>
             <key>Delete</key>
@@ -398,9 +398,9 @@
                 <key>AppleDebug</key>
                 <false/>
                 <key>ApplePanic</key>
-                <true/>
+                <false/>
                 <key>DisableWatchDog</key>
-                <true/>
+                <false/>
                 <key>DisplayDelay</key>
                 <integer>0</integer>
                 <key>DisplayLevel</key>
@@ -410,7 +410,7 @@
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>3</integer>
+                <integer>0</integer>
             </dict>
             <key>Entries</key>
             <array/>
@@ -421,7 +421,7 @@
                 <key>AllowSetDefault</key>
                 <true/>
                 <key>AllowToggleSip</key>
-                <true/>
+                <false/>
                 <key>ApECID</key>
                 <integer>0</integer>
                 <key>AuthRestart</key>
@@ -433,7 +433,7 @@
                 <key>EnablePassword</key>
                 <false/>
                 <key>ExposeSensitiveData</key>
-                <integer>2</integer>
+                <integer>6</integer>
                 <key>HaltLevel</key>
                 <integer>2147483648</integer>
                 <key>PasswordHash</key>
@@ -619,7 +619,7 @@
                 <key>MinimumVolume</key>
                 <integer>20</integer>
                 <key>PlayChime</key>
-                <string>Disabled</string>
+                <string>Auto</string>
                 <key>ResetTrafficClass</key>
                 <false/>
                 <key>SetupDelay</key>
