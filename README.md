@@ -19,11 +19,7 @@
 
 # BIOS Settings
 
-Settings\Advanced\Wake Up Event Setup\Resume By USB Device **[Disabled] -> [Enabled]**
-
 Settings\Advanced\D.T.M **[Disabled] -> [Enabled]**
-
-Settings\Advanced\Power Management Setup\ErP Ready **[Disabled] -> [Enabled]**
 
 # Known Issues
 
