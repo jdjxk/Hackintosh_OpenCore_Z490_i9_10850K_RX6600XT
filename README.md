@@ -7,9 +7,7 @@
 | Memory        | Crucial Ballistix DDR4-3600 8GB*4 |
 | SSD           | Intel Optane 900P 280GB           |
 | Graphics Card | Gigabyte RX 5500 XT OC 4G         |
-| Wireless      | Fenvi T919                        |
-| Network       | Intel I219-V                      |
-| Audio         | Realtek ALC892                    |
+| WiFi Adapter  | Fenvi T919                        |
 
 | Software | Version         |
 | -------- | --------------- |
