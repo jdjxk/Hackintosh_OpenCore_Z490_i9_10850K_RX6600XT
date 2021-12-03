@@ -21,6 +21,6 @@
 
 Settings\Advanced\D.T.M **[Disabled] -> [Enabled]**
 
-# Known Issues
+# Notice
 
-None
+Create MLB, ROM, SystemSerialNumber, SystemUUID by yourself.
