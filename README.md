@@ -9,11 +9,11 @@
 | Graphics Card | Gigabyte RX 5500 XT OC 4G         |
 | WiFi Adapter  | Fenvi T919                        |
 
-| Software | Version         |
-| -------- | --------------- |
-| SMBIOS   | iMac20,2        |
-| OpenCore | 0.7.6           |
-| macOS    | Monterey 12.0.1 |
+| Software | Version       |
+| -------- | ------------- |
+| SMBIOS   | iMac20,2      |
+| OpenCore | 0.7.6         |
+| macOS    | Monterey 12.1 |
 
 # BIOS Settings
 
