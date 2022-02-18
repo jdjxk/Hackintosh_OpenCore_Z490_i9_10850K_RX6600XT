@@ -12,8 +12,8 @@
 | Software | Version       |
 | -------- | ------------- |
 | SMBIOS   | iMac20,2      |
-| OpenCore | 0.7.7         |
-| macOS    | Monterey 12.2 |
+| OpenCore | 0.7.8         |
+| macOS    | Monterey 12.3 |
 
 # BIOS Settings
 
