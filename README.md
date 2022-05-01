@@ -7,13 +7,13 @@
 | Memory        | Crucial Ballistix DDR4-3600 8GB*4 |
 | SSD           | Intel Optane 900P 280GB           |
 | Graphics Card | Gigabyte RX 5500 XT OC 4G         |
-| WiFi Adapter  | Fenvi T919                        |
+| WiFi Adapter  | BCM943602CDP                      |
 
-| Software | Version       |
-| -------- | ------------- |
-| SMBIOS   | iMac20,2      |
-| OpenCore | 0.7.8         |
-| macOS    | Monterey 12.3 |
+| Software | Version         |
+| -------- | --------------- |
+| SMBIOS   | iMac20,2        |
+| OpenCore | 0.8.0           |
+| macOS    | Monterey 12.3.1 |
 
 # BIOS Settings
 
