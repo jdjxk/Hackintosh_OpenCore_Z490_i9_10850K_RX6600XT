@@ -17,7 +17,7 @@
 
 # BIOS Settings
 
-Settings\Advanced\D.T.M **[Disabled] -> [Enabled]**
+Settings\Advanced\D.T.M `Disabled` -> `Enabled`
 
 # Notice
 
