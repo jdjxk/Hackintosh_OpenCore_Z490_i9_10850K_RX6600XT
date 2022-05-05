@@ -7,7 +7,7 @@
 | Memory        | Crucial Ballistix DDR4-3600 8GB*4 |
 | SSD           | Intel Optane 900P 280GB           |
 | Graphics Card | Gigabyte RX 5500 XT OC 4G         |
-| WiFi Adapter  | BCM943602CDP                      |
+| WiFi Adapter  | Broadcom BCM943602CDP             |
 
 | Software | Version         |
 | -------- | --------------- |
