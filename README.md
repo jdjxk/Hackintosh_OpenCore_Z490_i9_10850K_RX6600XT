@@ -6,7 +6,7 @@
 | CPU           | Intel Core i9-10850K              |
 | Memory        | Crucial Ballistix DDR4-3600 8GB*4 |
 | SSD           | Intel Optane 900P 280GB           |
-| Graphics Card | Gigabyte RX 5500 XT OC 4G         |
+| Graphics Card | MSI RX 6600 XT GAMING X 8G        |
 | WiFi Adapter  | BCM943602CDP                      |
 
 | Software | Version      |
