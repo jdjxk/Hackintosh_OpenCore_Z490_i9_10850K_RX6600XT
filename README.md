@@ -12,8 +12,8 @@
 | Software | Version      |
 | -------- | ------------ |
 | SMBIOS   | iMac20,2     |
-| OpenCore | 0.8.8        |
-| macOS    | Ventura 13.1 |
+| OpenCore | 0.9.2        |
+| macOS    | Ventura 13.4 |
 
 # BIOS Settings
 
