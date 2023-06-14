@@ -9,11 +9,11 @@
 | Graphics Card | MSI RX 6600 XT GAMING X 8G        |
 | WiFi Adapter  | BCM943602CDP                      |
 
-| Software | Version      |
-| -------- | ------------ |
-| SMBIOS   | iMac20,2     |
-| OpenCore | 0.9.2        |
-| macOS    | Ventura 13.4 |
+| Software | Version     |
+| -------- | ----------- |
+| SMBIOS   | iMac20,2    |
+| OpenCore | 0.9.3       |
+| macOS    | Sonoma 14.0 |
 
 # BIOS Settings
 
